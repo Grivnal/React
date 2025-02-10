@@ -1,0 +1,31 @@
+.solid-btn {
+    border: none;
+}
+
+.outline-btn {
+    border: 1px solid black;
+    background-color: white;
+}
+
+.animated-btn {
+    height: 50px;
+    width: 50px;
+    animation: btn-rotate 4s linear infinite;
+}
+
+@keyframes btn-rotate {
+    from {  
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+.red {
+    background-color: red;
+}
+
+.green {
+    background-color: lightgreen;
+}

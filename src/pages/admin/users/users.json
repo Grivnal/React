@@ -1,0 +1,47 @@
+[
+    {
+      "id": 1,
+      "email": "admin@gmail.com",
+      "password": "qwerty",
+      "firstName": "Admin",
+      "lastName": "Admin",
+      "image": "",
+      "role": "admin"
+    },
+    {
+      "id": 2,
+      "email": "user@gmail.com",
+      "password": "qwerty",
+      "firstName": "User",
+      "lastName": "User",
+      "image": "",
+      "role": "user"
+    },
+    {
+      "id": 3,
+      "email": "batman@gmail.com",
+      "password": "qwerty",
+      "firstName": "Batman",
+      "lastName": "Black",
+      "image": "",
+      "role": "user"
+    },
+    {
+      "id": 4,
+      "email": "flash@gmail.com",
+      "password": "qwerty",
+      "firstName": "Flash",
+      "lastName": "Speed",
+      "image": "",
+      "role": "user"
+    },
+    {
+      "id": 5,
+      "email": "java@gmail.com",
+      "password": "qwerty",
+      "firstName": "Steve",
+      "lastName": "Carrot",
+      "image": "",
+      "role": "user"
+    }
+  ]
